@@ -6,7 +6,7 @@ Andy Cox V
 
 The purpose of this project was to develop a program that is can speedily create asthetically pleasing fractal art for an art competition.
 Two fractals were entered and scored very high 58/60 and 60/60.
-The file ARTCOMP_Manual.pdf will elaborate on history of the program, how the program works, and how to use the program.
+The file ARTCOMP_Manual.zip contains a pdf that will elaborate on history of the program, how the program works, and how to use the program.
 
 Message to the Internet:
 I hope you enjoy this program and that you can learn from and expand on this program and others like it.
@@ -27,7 +27,8 @@ Guided Tour
 	Contains the source code artcomp.c, the Linux executable artcomp.bin, an example script file, and run.sh.
 	run.sh is a demo bash script file already preset to render an almostgray.bmp fractal image.
 	artcomp.c is written in ANSI-C99 standards and more information on how to compile is included in the source file.
-4. ARTCOMP_MANUAL.pdf
-	Contains information about and how to use ARTCOMP.
+4. ARTCOMP_MANUAL.zip
+	Contains information about and how to use ARTCOMP in a pdf file.
+	This file was compressed into a zip file due to speed issues with rendering the pdf on github.
 5. LICENSE.txt
 	Contains the legal information for the MIT License.
