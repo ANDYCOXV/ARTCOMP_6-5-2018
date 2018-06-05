@@ -4,9 +4,8 @@ Artistic Fractal Generation Program with Scripting Language
 Andy Cox V
 6/5/2018
 
-The purpose of this project was to develop a program that is can speedily create asthetically pleasing fractal art for an art competition.
-Two fractals were entered and scored very high 58/60 and 60/60.
-The file ARTCOMP_Manual.zip contains a pdf that will elaborate on history of the program, how the program works, and how to use the program.
+The purpose of this project was to develop a program that is can speedily create asthetically pleasing fractal art for the VASE art competition. Two fractals were entered and scored very high 58/60 and 60/60.
+The file ARTCOMP_Manual.zip contains a pdf that will elaborate on history of the program, how the program works, and how to use the program. The program was written in C (C99 Standard) and the code was designed to be cross platform.
 
 Message to the Internet:
 I hope you enjoy this program and that you can learn from and expand on this program and others like it.
