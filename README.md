@@ -18,18 +18,9 @@ I also hope this project will help others learn, be inspired, and to give back.
 Thank you!
 
 # Guided Tour
-1. Fractal_Examples 
-	Directory contains fractals and their patterns generated from the scripts in Script_Examples.zip and rendered with artcomp.bin in Executables.zip.
-2. Script_Examples.zip 
-	Contains example scripts for others to build or exapand on when creating patterns for the fractals.
-3. Executables.zip 
-	Contains the source code artcomp.c, the Linux executable artcomp.bin, an example script file, and run.sh.
-	run.sh is a demo bash script file already preset to render an almostgray.bmp fractal image.
-	artcomp.c is written in ANSI-C99 standards and more information on how to compile is included in the source file.
-4. ARTCOMP_MANUAL.zip
-	Contains information about and how to use ARTCOMP in a pdf file.
-	This file was compressed into a zip file due to speed issues with rendering the pdf on github.
-5. LICENSE.txt
-	Contains the legal information for the MIT License.
-6. Responses
-	Directory containing responces from the judges on two fractals that I entered into the VASE art competition. Names on these two documents have been censored for their protection.
+1. Fractal_Examples - Directory contains fractals and their patterns generated from the scripts in Script_Examples.zip and rendered with artcomp.bin in Executables.zip.
+2. Script_Examples.zip - Contains example scripts for others to build or exapand on when creating patterns for the fractals.
+3. Executables.zip - Contains the source code artcomp.c, the Linux executable artcomp.bin, an example script file, and run.sh. run.sh is a demo bash script file already preset to render an almostgray.bmp fractal image. artcomp.c is written in ANSI-C99 standards and more information on how to compile is included in the source file.
+4. ARTCOMP_MANUAL.zip - Contains information about and how to use ARTCOMP in a pdf file. This file was compressed into a zip file due to speed issues with rendering the pdf on github.
+5. LICENSE.txt - Contains the legal information for the MIT License.
+6. Responses - Directory containing responces from the judges on two fractals that I entered into the VASE art competition. Names on these two documents have been censored for their protection.
