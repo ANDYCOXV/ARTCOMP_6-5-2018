@@ -32,4 +32,4 @@ Thank you!
 5. LICENSE.txt
 	Contains the legal information for the MIT License.
 6. Responses
-	Directory containing responces from the judges on two fractals that I entered into the VASE art competition. Their names have been censored for their protection.
+	Directory containing responces from the judges on two fractals that I entered into the VASE art competition. Names on these two documents have been censored for their protection.
