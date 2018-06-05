@@ -1,4 +1,4 @@
-# ARTCOMP_4-9-2018
+# ARTCOMP_6-5-2018
 Artistic Fractal Generation Program with Scripting Language
 
 Andy Cox V
