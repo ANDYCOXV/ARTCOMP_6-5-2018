@@ -2,7 +2,7 @@
 Artistic Fractal Generation Program with Scripting Language
 
 Andy Cox V
-4/9/2018
+6/5/2018
 
 The purpose of this project was to develop a program that is can speedily create asthetically pleasing fractal art for an art competition.
 Two fractals were entered and scored very high 58/60 and 60/60.
@@ -17,8 +17,7 @@ I want to give back to these people and having this project for the public domai
 I also hope this project will help others learn, be inspired, and to give back.
 Thank you!
 
-Guided Tour
-===========
+# Guided Tour
 1. Fractal_Examples 
 	Directory contains fractals and their patterns generated from the scripts in Script_Examples.zip and rendered with artcomp.bin in Executables.zip.
 2. Script_Examples.zip 
@@ -32,3 +31,5 @@ Guided Tour
 	This file was compressed into a zip file due to speed issues with rendering the pdf on github.
 5. LICENSE.txt
 	Contains the legal information for the MIT License.
+6. Responses
+	Directory containing responces from the judges on two fractals that I entered into the VASE art competition. Their names have been censored for their protection.
